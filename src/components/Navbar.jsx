@@ -127,7 +127,7 @@ export default function Navbar() {
           
           {/* Internship - Direct Google Drive Download */}
           <a 
-            href="https://drive.google.com/uc?export=download&id=15vXAG2Bm5eWb7QxLUEdb8D_h2Oj0ZuaQ"
+            href="https://drive.usercontent.google.com/download?id=15vXAG2Bm5eWb7QxLUEdb8D_h2Oj0ZuaQ&export=download"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-2 hover:bg-blue-600 transition"
