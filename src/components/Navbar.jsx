@@ -124,9 +124,17 @@ export default function Navbar() {
           <a href="#" className="px-6 py-2 hover:bg-blue-600 transition">
             Library
           </a>
-          <a href="#" className="px-6 py-2 hover:bg-blue-600 transition">
+          
+          {/* Internship - Direct Google Drive Download */}
+          <a 
+            href="https://drive.google.com/uc?export=download&id=15vXAG2Bm5eWb7QxLUEdb8D_h2Oj0ZuaQ"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-6 py-2 hover:bg-blue-600 transition"
+          >
             Internship
           </a>
+          
           <a href="#" className="px-6 py-2 hover:bg-blue-600 transition">
             Donation
           </a>
