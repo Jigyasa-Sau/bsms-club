@@ -12,7 +12,7 @@ export default function Events() {
 
       <section className="py-16 px-6 max-w-3xl mx-auto text-center">
         <p className="text-lg text-gray-700 leading-relaxed">
-          At the BioClub, we dive into experiments, workshops, and biology-themed
+          At the ChemClub, we dive into experiments, workshops, and biology-themed
           events that celebrate scientific curiosity.
         </p>
       </section>
