@@ -9,6 +9,7 @@ import BioClub from "./pages/BioClub";   // ✅ updated here
 import Events from "./pages/Events";
 import Membership from "./pages/Membership";
 import ContactTeam from "./pages/ContactTeam";
+import Computer from "./pages/Computer";
 
 export default function App() {
   return (
@@ -18,7 +19,8 @@ export default function App() {
         <main className="flex-grow">
           <Routes>
             <Route path="/" element={<Home key="home" />} />
-            <Route path="/bioclub" element={<BioClub />} />   {/* ✅ updated route */}
+            <Route path="/bioclub" element={<BioClub />} /> {/* ✅ updated route */}
+            <Route path="/computer" element={<Computer />} /> 
             <Route path="/events" element={<Events />} />
             <Route path="/membership" element={<Membership />} />
             <Route path="/contact" element={<ContactTeam />} />

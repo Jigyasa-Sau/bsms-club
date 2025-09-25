@@ -66,6 +66,8 @@ export default function Hero() {
                 <Link to="/events" className="hover:text-blue-300 font-medium">ChemClub</Link>
                 <Link to="/membership" className="hover:text-blue-300 font-medium">PhyClub</Link>
                 <Link to="/contact" className="hover:text-blue-300 font-medium">MathClub</Link>
+                <Link to="/computer" className="hover:text-blue-300 font-medium">CsClub</Link>
+ 
               </div>
             </div>
           )}
